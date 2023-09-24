@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+body {
+    background-color: #eeede8;
+    font-family: "Poppins";
+}
+
+.menu-item {
+    transition: 0.2s ease-in-out;
+}
+
+.menu-item:hover {
+    cursor: pointer;
+    box-shadow: 4px 2px 18px 1px rgba(0, 0, 0, 0.62);
+    -webkit-box-shadow: 4px 2px 18px 1px rgba(0, 0, 0, 0.62);
+    -moz-box-shadow: 4px 2px 18px 1px rgba(0, 0, 0, 0.62);
+}

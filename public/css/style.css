@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Tangerine:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+
+body {
+  background-color: #eeede8;
+  font-family: "Montserrat";
+}
+
+.font-tangerine {
+  font-family: "Tangerine";
+}
+
+.hero-size {
+  font-size: 70px;
+}
+
+.hero-section {
+  height: 80dvh;
+}
+
+.section-title {
+  font-size: 46px;
+}
+
+.section-icon i {
+  font-size: 28px;
+}
+
+.image-radius {
+  border-radius: 14px;
+}
