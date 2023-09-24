@@ -11,7 +11,7 @@
               </div>
               <div class="col-lg-6">
                 <label for="number" class="form-label">No. Hape</label>
-                <input type="number" class="form-control" wire:model='number' />
+                <input type="number" class="form-control" wire:model='email' />
               </div>
             </div>
             <div class="mb-3">
