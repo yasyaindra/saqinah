@@ -70,34 +70,22 @@
             Cara mudah membuat undangan, hanya butuh 5 menit undangan kamu sudah
             bisa di sebarkan.
           </p>
-          <div class="row section-icon mb-2">
-            <div class="col-lg-1">
+          <div class="d-flex align-items-center section-icon mb-2 gap-3">
               <i class="fa-solid fa-right-to-bracket"></i>
-            </div>
-            <div class="col-lg">
               <p>Registrasi</p>
-            </div>
           </div>
-          <div class="row section-icon mb-2">
-            <div class="col-lg-1">
+          <div class="d-flex align-items-center section-icon mb-2 gap-3">
               <i class="fa-solid fa-calendar-days"></i>
-            </div>
-            <div class="col-lg">
               <p>Isi Info Acara</p>
-            </div>
           </div>
-          <div class="row section-icon mb-2">
-            <div class="col-lg-1">
+          <div class="d-flex align-items-center section-icon mb-2 gap-3">
               <i class="fa-solid fa-share-from-square"></i>
-            </div>
-            <div class="col-lg">
               <p>Sebarkan</p>
-            </div>
           </div>
         </div>
         <div class="col-lg-6 text-end">
           <iframe
-            width="560"
+            width="100%"
             class="image-radius"
             height="315"
             src="https://www.youtube.com/embed/D0UnqGm_miA?si=SkJJYpvH1sW0mHQj"
@@ -118,10 +106,10 @@
           <div class="card border-0 shadow" style="height: 140px">
             <div class="card-body">
               <div class="row align-items-center">
-                <div class="col-lg-2 text-center section-icon">
+                <div class="col-2 col-lg-2 text-center section-icon">
                   <i class="fa-solid fa-music"></i>
                 </div>
-                <div class="col-lg">
+                <div class="col col-lg">
                   <h5 class="card-title fw-bold">Musik</h5>
                   <p class="card-text">
                     Pasang musik pengiring di undanganmu
@@ -135,10 +123,10 @@
           <div class="card border-0 shadow" style="height: 140px">
             <div class="card-body">
               <div class="row align-items-center">
-                <div class="col-lg-2 text-center section-icon">
+                <div class="col-2 col-lg-2 text-center section-icon">
                   <i class="fa-solid fa-map-location-dot"></i>
                 </div>
-                <div class="col-lg">
+                <div class="col col-lg">
                   <h5 class="card-title fw-bold">Lokasi Google Map</h5>
                   <p class="card-text">
                     Bantu tamumu menemukan lokasi pesta pernikahanmu dengan mudah menggunakan link Google Map
@@ -152,10 +140,10 @@
           <div class="card border-0 shadow" style="height: 140px">
             <div class="card-body">
               <div class="row align-items-center">
-                <div class="col-lg-2 text-center section-icon">
+                <div class="col-2 col-lg-2 text-center section-icon">
                   <i class="fa-solid fa-user-check"></i>
                 </div>
-                <div class="col-lg">
+                <div class="col col-lg">
                   <h5 class="card-title fw-bold">Buku Tamu</h5>
                   <p class="card-text">
                     Tulis siapa saja nama tamu yang ingin kamu undang
@@ -169,10 +157,10 @@
           <div class="card border-0 shadow" style="height: 140px">
             <div class="card-body">
               <div class="row align-items-center">
-                <div class="col-lg-2 text-center section-icon">
+                <div class="col-2 col-lg-2 text-center section-icon">
                   <i class="fa-solid fa-images"></i>
                 </div>
-                <div class="col-lg">
+                <div class="col col-lg">
                   <h5 class="card-title fw-bold">Image Gallery</h5>
                   <p class="card-text">
                     Tunjukan foto prewedding terbaikmu
@@ -186,10 +174,10 @@
           <div class="card border-0 shadow" style="height: 140px">
             <div class="card-body">
               <div class="row align-items-center">
-                <div class="col-lg-2 text-center section-icon">
+                <div class="col-2 col-lg-2 text-center section-icon">
                   <i class="fa-solid fa-clock-rotate-left"></i>
                 </div>
-                <div class="col-lg">
+                <div class="col col-lg">
                   <h5 class="card-title fw-bold">Countdown</h5>
                   <p class="card-text">
                     Hitung mundur momen sakral yang akan kamu adakan
@@ -203,10 +191,10 @@
           <div class="card border-0 shadow" style="height: 140px">
             <div class="card-body">
               <div class="row align-items-center">
-                <div class="col-lg-2 text-center section-icon">
+                <div class="col-2 col-lg-2 text-center section-icon">
                   <i class="fa-solid fa-heart"></i>
                 </div>
-                <div class="col-lg">
+                <div class="col col-lg">
                   <h5 class="card-title fw-bold">Love Stories</h5>
                   <p class="card-text">
                     Ceritakan kisah cintamu
@@ -220,10 +208,10 @@
           <div class="card border-0 shadow" style="height: 140px">
             <div class="card-body">
               <div class="row align-items-center">
-                <div class="col-lg-2 text-center section-icon">
+                <div class="col-2 col-lg-2 text-center section-icon">
                   <i class="fa-solid fa-pen-ruler"></i>
                 </div>
-                <div class="col-lg">
+                <div class="col col-lg">
                   <h5 class="card-title fw-bold">
                     Design Elegan dan Responsive
                   </h5>
@@ -239,10 +227,10 @@
           <div class="card border-0 shadow" style="height: 140px">
             <div class="card-body">
               <div class="row align-items-center">
-                <div class="col-lg-2 text-center section-icon">
+                <div class="col-2 col-lg-2 text-center section-icon">
                   <i class="fa-solid fa-share-nodes"></i>
                 </div>
-                <div class="col-lg">
+                <div class="col col-lg">
                   <h5 class="card-title fw-bold">Sebar Melalui Link</h5>
                   <p class="card-text">
                     Generate link secara otomatis ke semua sosial media
@@ -256,10 +244,10 @@
           <div class="card border-0 shadow" style="height: 140px">
             <div class="card-body">
               <div class="row align-items-center">
-                <div class="col-lg-2 text-center section-icon">
+                <div class="col-2 col-lg-2 text-center section-icon">
                   <i class="fa-solid fa-pen-to-square"></i>
                 </div>
-                <div class="col-lg">
+                <div class="col col-lg">
                   <h5 class="card-title fw-bold">Real Time Editing</h5>
                   <p class="card-text">
                     Edit undanganmu secara real-time pada undangan builder
@@ -273,10 +261,10 @@
           <div class="card border-0 shadow" style="height: 140px">
             <div class="card-body">
               <div class="row align-items-center">
-                <div class="col-lg-2 text-center section-icon">
+                <div class="col-2 col-lg-2 text-center section-icon">
                   <i class="fa-solid fa-bell"></i>
                 </div>
-                <div class="col-lg">
+                <div class="col col-lg">
                   <h5 class="card-title fw-bold">Notification</h5>
                   <p class="card-text">
                     Ada kolom pemberitahuan siapa saja yang mengirimkanmu pesan dan harapan
@@ -290,10 +278,10 @@
           <div class="card border-0 shadow" style="height: 140px">
             <div class="card-body">
               <div class="row align-items-center">
-                <div class="col-lg-2 text-center section-icon">
+                <div class="col-2 col-lg-2 text-center section-icon">
                   <i class="fa-regular fa-address-card"></i>
                 </div>
-                <div class="col-lg">
+                <div class="col col-lg">
                   <h5 class="card-title fw-bold">Nama Tamu</h5>
                   <p class="card-text">
                     Kirimkan undanganmu dengan sedikit kata kunci dan nama tamu-mu
@@ -307,10 +295,10 @@
           <div class="card border-0 shadow" style="height: 140px">
             <div class="card-body">
               <div class="row align-items-center">
-                <div class="col-lg-2 text-center section-icon">
+                <div class="col-2 col-lg-2 text-center section-icon">
                   <i class="fa-solid fa-envelope-open-text"></i>
                 </div>
-                <div class="col-lg">
+                <div class="col col-lg">
                   <h5 class="card-title fw-bold">Amplop Digital</h5>
                   <p class="card-text">
                    Tambahkan cara pembayaran untuk mengirimkan bingkisan suka cita dari tamumu
