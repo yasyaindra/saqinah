@@ -38,7 +38,7 @@
     </nav>
     <div class="container mt-5 mb-5">
       <div class="row align-items-center" style="height: 90vh">
-        <div class="col-lg-6 mb-3 order-2 order-lg-1">
+        <div class="col-lg-6 mb-3 order-2 order-lg-1 d-none d-lg-block">
           <img src="/img/login.png" alt="" width="480" class="img-fluid" />
         </div>
         <div class="col-lg-6 mb-3 order-1 order-lg-2">
